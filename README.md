@@ -35,15 +35,11 @@ Conectar com o Postman na porta de acordo com a sua variável de ambiente
 
 | Verbos HTTP | Endpoints | Ação |
 | --- | --- | --- |
-| POST | /api/user/signup | Registra um novo usuário |
-| POST | /api/user/login | Realiza o login com um usuário já criado |
-| POST | /api/blog/add | Cria um novo blog |
-| GET | /api/user | Retorna todos os usuários |
-| GET | /api/blog | Retorna todos os blogs |
-| GET | /api/blog/:id | Retorna o blog indicado pelo id |
-| GET | /api/blog/user/:id | Retorna o usuário indicado pelo id |
-| PUT | /api/blog/update/:id | Atualiza o blog indicado pelo id |
-| DELETE | /api/blog/:id | Deleta o blog indicado pelo id |
+| POST | /api/v1/tasks | Registra uma nova tarefa |
+| GET | /api/v1/tasks | Retorna todas as tarefas |
+| GET | /api/v1/tasks/:id | Retorna uma única tarefa |
+| PATCH | /api/v1/update/:id | Atualiza a tarefa indicada pelo id |
+| DELETE | /api/v1/:id | Deleta a tarefa indicado pelo id |
 
 
 ## Tecnologias Usadas
