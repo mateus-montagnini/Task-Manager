@@ -4,8 +4,6 @@
 
 API criada para o gerenciamento de tarefas, possibilitando a criação, visualização, atualização e remoção de cada tarefa. Os dados são armazenados no banco de dados não relacional MongoDB.
 
-![Task-API](https://github.com/mateus-montagnini/Task-Manager/assets/83839165/3584a821-b031-489f-86c3-7dbb271a0d29)
-
 
 ## Instalação
 
@@ -32,6 +30,10 @@ npm run dev
 ```
 
 Conectar com o Postman na porta de acordo com a sua variável de ambiente
+
+Acessar o endereço que a API estiver rodando e criar tarefas. Após a realização de cada tarefa, você pode editá-las como feitas. Pode realizar também a remoção de cada tarefa
+
+![Task-API](https://github.com/mateus-montagnini/Task-Manager/assets/83839165/3584a821-b031-489f-86c3-7dbb271a0d29)
 
 
 ## API Endpoints
