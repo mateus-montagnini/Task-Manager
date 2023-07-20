@@ -7,10 +7,10 @@ API criada para o gerenciamento de tarefas, possibilitando a criação, visualiz
 
 ## Instalação
 
-Realizar clone do projeto
+Realizar o clone do projeto
 
 ```shell
-git clone https://github.com/emeath/loja-anime.git
+git clone https://github.com/mateus-montagnini/Task-Manager.git
 ```
 
 Fazer a instalação das dependências do projeto
