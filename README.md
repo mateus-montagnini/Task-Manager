@@ -4,6 +4,8 @@
 
 API criada para o gerenciamento de tarefas, possibilitando a criação, visualização, atualização e remoção de cada tarefa. Os dados são armazenados no banco de dados não relacional MongoDB.
 
+![Task-API](https://github.com/mateus-montagnini/Task-Manager/assets/83839165/3584a821-b031-489f-86c3-7dbb271a0d29)
+
 
 ## Instalação
 
