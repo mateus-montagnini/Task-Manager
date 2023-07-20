@@ -4,6 +4,8 @@
 
 API criada para o gerenciamento de tarefas, possibilitando a criação, visualização, atualização e remoção de cada tarefa. Os dados são armazenados no banco de dados não relacional MongoDB.
 
+![ERD](src/main/resources/ERD-Animes.png)
+
 ## Instalação
 
 Realizar clone do projeto
